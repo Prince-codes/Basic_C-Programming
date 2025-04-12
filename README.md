@@ -119,3 +119,9 @@ cd Basic_C-Programming</code></pre>
 ---
 
 <h3 align="center">🌟 Don't forget to leave a star if you find this repository helpful! 🌟</h3>
+
+---
+
+<h3 align="center" style="color: gray;">
+💧 Created with ❤️ by <b>Prince Raj Singh</b> from <b>Team CARNAGE SENTINELS</b> 💧
+</h3>
