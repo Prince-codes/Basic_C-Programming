@@ -123,5 +123,5 @@ cd Basic_C-Programming</code></pre>
 ---
 
 <h3 align="center" style="color: gray;">
-💧 Created with ❤️ by <b>Prince Raj Singh</b> from <b>Team CARNAGE SENTINELS</b> 💧
+💧 Created with ❤️ by <b>Prince Raj Singh</b> from <b style="font-family: 'Courier New', monospace; letter-spacing: 2px;">ＣＡＲＮＡＧＥ ＳＥＮＴＩＮＥＬＳ</b> 💧
 </h3>
